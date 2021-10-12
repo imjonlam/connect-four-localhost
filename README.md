@@ -13,17 +13,19 @@ A simple 2-player multiplayer connect 4 game using websockets
 
 ## How to setup
 
-1. start the server:
+1. build and start the server:
 
 ```
 cd server
+npm install
 npm start
 ```
 
-2. start the client:
+2. build and start the client:
 
 ```
 cd server
+npm install
 npm start
 ```
 
