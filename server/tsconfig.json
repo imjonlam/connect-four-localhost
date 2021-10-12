@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        "noImplicitAny": false,
-        "outDir": "build"
+        "noImplicitAny": false
     }
 }
