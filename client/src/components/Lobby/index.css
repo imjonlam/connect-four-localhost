@@ -1,0 +1,22 @@
+.lobby_form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.lobby_form > input {
+    border-radius: 5px;
+    border: none;
+}
+
+.lobby_form > input:focus {
+    outline: none;
+}
+
+.lobby_form > label {
+    user-select: none;
+    margin-top: 2px;
+    font-size: 8px;
+    font-weight: bold;
+    color: #ffffff;
+}

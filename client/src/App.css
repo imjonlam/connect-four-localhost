@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #807e7e;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.game_message {
+    colour: #ffffff;
+    margin-bottom: 15px;
+}
